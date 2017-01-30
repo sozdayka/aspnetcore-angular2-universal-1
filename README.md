@@ -4,7 +4,7 @@
     <img src="./docs/architecture.png" alt="ASP.NET Core Angular 2+ Starter" title="ASP.NET Core Angular 2+ Starter">
 </p>
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/ORuban/dotnet-core-buildpack.git">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/ORuban/aspnetcore-angular2-universal.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
