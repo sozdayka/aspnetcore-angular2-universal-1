@@ -1,7 +1,7 @@
 {
   "name": "aspnetcore-angular2-universal",
   "description": "Deploy Angular 2+ Universal & ASP.NET Core SPA Advanced Starter on Heroku",
-  "logo": "https://raw.githubusercontent.com/herokumx/herokumxnet/master/NETChatterGroup.png",
+  "logo": "https://avatars3.githubusercontent.com/u/12620773?s=96&v=4",
   "keywords": ["heroku", "asp.net-core", "angular2", "spa"],
   "env": {
     "NPM_CONFIG_PRODUCTION": {
